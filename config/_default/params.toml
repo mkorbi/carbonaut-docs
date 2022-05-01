@@ -17,12 +17,12 @@ codeMaxLines = 7
 codeLineNumbers = false
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
-iconsPath = 'static/favicons'
+# iconsPath = 'static/favicons'
 
 # Site logo
 [logo]
-  lightMode = "images/carbonaut-light.svg"
-  darkMode = "images/carbonaut-dark.svg"
+  lightMode = "images/carbonaut.png"
+  darkMode = "images/carbonaut-inverted.png"
 
 [source]
   name = "GitHub"

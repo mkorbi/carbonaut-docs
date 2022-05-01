@@ -23,6 +23,6 @@ Join our [community](https://github.com/carbonaut-cloud/community), discover our
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/spaceman.jpg)
+![diy](/images/spaceman.png)
 {{< /column >}}
 {{< /block >}}
