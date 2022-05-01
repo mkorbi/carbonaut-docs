@@ -4,7 +4,7 @@ mainSections = ["posts"] # use it for blog page section
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
-repo = "https://github.com/onweru/compose"
+repo = "https://github.com/carbonaut-cloud"
 
 time_format_blog = "Monday, January 02, 2006"
 time_format_default = "January 2, 2006"
@@ -21,8 +21,8 @@ codeLineNumbers = false
 
 # Site logo
 [logo]
-  lightMode = "images/compose.svg"
-  darkMode = "images/compose-light.svg"
+  lightMode = "images/carbonaut-light.svg"
+  darkMode = "images/carbonaut-dark.svg"
 
 [source]
   name = "GitHub"
@@ -33,5 +33,5 @@ codeLineNumbers = false
 # optional
 # attribution. Feel free to delete this
 [author]
-  name = "Weru"
-  url = "https://neuralvibes.com/author/"
+  name = "Carbonaut Contributors"
+  url = "https://github.com/carbonaut-cloud"

@@ -5,14 +5,14 @@
   url = "docs/"
 
 [[main]]
-  name = "Tutorials"
+  name = "Guides"
   weight = 2
-  url = "tutorials/"
+  url = "guides/"
 
 [[main]]
-  name = "Example"
+  name = "About"
   weight = 3
-  url = "https://docs.neuralvibes.com"
+  url = "about/about"
 
 # [[main]]
 #   name = "Blog"

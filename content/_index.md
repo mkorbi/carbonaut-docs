@@ -1,5 +1,5 @@
 +++
-title = "Compose"
+title = "Carbonaut"
 [data]
 baseChartOn = 3
 colors = ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
@@ -11,23 +11,18 @@ title = "Projects"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Compose your Docs with **Ease**.
+# Manage your ICT **carbon** footprint.
 
-Compose is a lean `Hugo` domentation theme, inspired by [forestry.io](https://forestry.io/docs/welcome/).
-
-{{< tip "warning" >}}
-Feel free to open a [PR](https://github.com/onweru/compose/pulls), raise an [issue](https://github.com/onweru/compose/issues/new/choose "Open a Github Issue")(s) or request new feature(s). {{< /tip >}}
+Carbonaut is a open source tool, integrating with the cloud, hypervisors and metal to meassure your carbon emissions, analyze your ressource utilization and recommend you actions to save emissions.
 
 {{< tip >}}
-You can generate diagrams, flowcharts, and piecharts from text in a similar manner as markdown using [mermaid](./docs/compose/mermaid/).
-
-Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doughnut--bar-chart-at-once) and tables from a csv, ~~or a json~~ file.
+Join our [community](https://github.com/carbonaut-cloud/community), discover our [feature roadmap](https://github.com/orgs/carbonaut-cloud/projects/1) and [propose new features](https://github.com/carbonaut-cloud/carbonaut/issues/new?assignees=&labels=kind%2Ffeature&template=feature-request.yaml). .
 {{< /tip >}}
 
-{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/onweru/compose" "Download Theme" >}}
+{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/carbonaut-cloud/carbonaut" "Get Carbonaut" >}}
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/scribble.jpg)
+![diy](/images/spaceman.jpg)
 {{< /column >}}
 {{< /block >}}
