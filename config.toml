@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://carbonaut.cloud/"
 title = "Carbonaut"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
