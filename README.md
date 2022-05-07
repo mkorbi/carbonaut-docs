@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3abb4ac7-1ac3-4878-8b7b-afbb37d0053c/deploy-status)](https://app.netlify.com/sites/carbonaut/deploys)
+
 ## Guide
 
 This guide covers the necessary bits. As the project evolves, it will only become more comprehensive
