@@ -25,7 +25,7 @@ Open source can be a key driver for causing an environmentally friendly ICT. Thr
 Join our [community](https://github.com/carbonaut-cloud/community), discover our [feature roadmap](https://github.com/orgs/carbonaut-cloud/projects/1) and [propose new features](https://github.com/carbonaut-cloud/carbonaut/issues/new?assignees=&labels=kind%2Ffeature&template=feature-request.yaml).
 {{< /tip >}}
 
-{{< button "docs/compose/" "Read the Docs" >}}{{< button "https://github.com/carbonaut-cloud/carbonaut" "Get Carbonaut" >}}
+{{< button "docs/" "Read the Docs" >}}{{< button "https://github.com/carbonaut-cloud/carbonaut" "Get Carbonaut" >}}
 {{< /column >}}
 
 {{< column >}}
