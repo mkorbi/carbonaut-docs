@@ -5,11 +5,6 @@
   url = "docs/"
 
 [[main]]
-  name = "Guides"
-  weight = 2
-  url = "guides/"
-
-[[main]]
   name = "About"
   weight = 3
   url = "about/about"
