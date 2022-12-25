@@ -3,12 +3,6 @@ title = "About Carbonaut"
 weight = 3
 +++
 
-## Carbon Hack 2022
-
-We started developing Carbonaut during the [Carbon Hack 22](https://taikai.network/gsf/hackathons/carbonhack22). 
-
-### Our Pitch
-
 ### Problem Statement
 
 Data centers around the world consume a lot of energy, and research reports indicate that this trend will continue. This is a problem because most of the world's energy production is still based on fossil fuels, and if we switch to green energy, this will quickly become scarce. In order to take further action to reduce carbon and energy consumption, there is a lack of data level and observational capabilities. Due to the heterogeneous aspect of distributed systems, many different systems need to be integrated to build this data layer. This is where Carbonaut comes in. 
@@ -46,17 +40,10 @@ Overall, Carbonaut shows the following data as visualizations:
 
 We enrich the visualizations with recommendations. Carbonaut, in the end, helps to gain precise information about your infrastructure and services and optimize them on CO2 data.
 
-### API/SDK Utilization
-
-The Carbon Aware SDK is used as one of the data providers in the Carbonaut agent. The Carbonaut agent takes the average resource utilization and calculates an estimated value of power consumption. Based on this, the SDK then makes a location-based request to the WattimeAPI to gather the CO2e information.
 
 ### Carbonaut Impact
 
 Visualizing actual data is simple but powerful and missing on various cloud and computing service providers. Carbonaut is building a trustful foundation to make decisions by optimizing, reducing, or eliminating resources causing unnecessary CO2e output. From the ground up, Carbonaut can be integrated into any cloud provider and can read Kubernetes based workloads anywhere (Cloud, hypervisor, bare metal) through various standardized options. Having this transparency on time allows Solution Architects to take Green/Environmental principles into their solution design. This helps to make an impact now and make even more impactful decisions for the future. With similar development within FinOps, we can tell that an initial CO2e reduction of between 25-40% is realistically feasible and that you can achieve an 80-90% effectiveness of CO2e optimization in the long run.
-
-### Feasibility
-
-The feasibility is given, also it may take some while till all required data is in a good quality shape available. Yet the biggest issue is the measurement of power usage. For some implementations, we have thought about integrating with hypervisors or reading it directly from the host via IPMI/RedFish. However, on a cloud provider, that is challenging. We, therefore, thought of having a labeling system that shows if the data is either an estimation, prediction, projection, or original.
 
 ### Vision
 

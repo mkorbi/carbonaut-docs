@@ -7,4 +7,4 @@ weight=16
 
 Highlevel architecture of Carbonaut.
 
-![carbonArch](/images/CarbonautArch-v1.2.png)
+![carbonArch](/images/CarbonautArch-v0.4.png)
