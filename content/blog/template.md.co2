@@ -1,0 +1,29 @@
+---
+author: Carbonaut Schnauzer
+date: 2023-01-31
+title: Creating a New Blog Post
+image: boy.jpg stored under static/images/
+---
+
+## H2 Intro
+
+Say hi!
+
+{{< youtube "https://www.youtube.com/" >}}
+
+Text text text, text.
+
+Here's an example:
+
+```bash
+## this is a comment
+$ echo this is a command
+this is a command
+
+```
+
+## H2
+
+More text.
+
+### H3

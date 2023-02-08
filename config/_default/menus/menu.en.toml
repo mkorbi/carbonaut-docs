@@ -9,7 +9,7 @@
   weight = 3
   url = "about/about"
 
-# [[main]]
-#   name = "Blog"
-#   weight = 4
-#   url = "blog/"
+[[main]]
+  name = "Blog"
+  weight = 4
+  url = "blog/"
